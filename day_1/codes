@@ -1,0 +1,8 @@
+cd
+cd..
+rm
+mv
+cp
+ls
+git init
+git remote add origin (URL)
